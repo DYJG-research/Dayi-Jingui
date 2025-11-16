@@ -1,4 +1,4 @@
-<h1 align="center">Dayi Jingui TCM Large Language Model</h1>
+<h1 align="center">Dayi-Jingui： A TCM domain Large Language Model.</h1>
 
 <p align="center">
   A Chinese LLM for Traditional Chinese Medicine, serving education, research, and clinical reference
@@ -14,7 +14,7 @@
 
 ## ⚡️ Overview
 
-Dayi Jingui is a Chinese large language model tailored for the TCM domain. It supports TCM knowledge Q&A, syndrome differentiation and prescription suggestions, knowledge retrieval and explanation, aiming to provide reference and inspiration for education, research, and clinical assistance.
+Dayi-Jingui is a Chinese large language model tailored for the TCM domain. It supports TCM knowledge Q&A, syndrome differentiation and prescription suggestions, knowledge retrieval and explanation, aiming to provide reference and inspiration for education, research, and clinical assistance.
 
 ## 🧩 Core Capabilities
 
@@ -41,16 +41,17 @@ The model outputs are for academic and educational reference only and do not con
 
 ## 📚 Citation
 
-If you use Dayi Jingui in your research or reports, please cite as follows:
+If you use Dayi-Jingui in your research or reports, please cite as follows:
 
 ```bibtex
 @misc{Dayi-Jingui,
-  title={Dayi Jingui},
+  title={Dayi-Jingui: A TCM domain Large Language Model.},
   author={DYJG-research},
   year={2025},
   url={https://github.com/DYJG-research/Dayi-Jingui}
 }
 ```
+
 
 
 
