@@ -1,4 +1,4 @@
-<h1 align="center">Dayi-Jingui： A TCM domain Large Language Model.</h1>
+<h1 align="center">Dayi-Jingui： A TCM domain Large Language Model</h1>
 
 <p align="center">
   A Chinese LLM for Traditional Chinese Medicine, serving education, research, and clinical reference
@@ -45,12 +45,13 @@ If you use Dayi-Jingui in your research or reports, please cite as follows:
 
 ```bibtex
 @misc{Dayi-Jingui,
-  title={Dayi-Jingui: A TCM domain Large Language Model.},
+  title={Dayi-Jingui: A TCM domain Large Language Model},
   author={DYJG-research},
   year={2025},
   url={https://github.com/DYJG-research/Dayi-Jingui}
 }
 ```
+
 
 
 
