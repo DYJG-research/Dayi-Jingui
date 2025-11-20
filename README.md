@@ -88,10 +88,13 @@ The model output is for academic and educational reference only and does not con
 
 If you use Dayi-Jingui in your research or report, please cite it as follows:
 
+```bibtex
 @misc{Dayi-Jingui,
   title={Dayi-Jingui: A TCM domain Large Language Model},
   author={DYJG-research},
   year={2025},
   url={https://github.com/DYJG-research/Dayi-Jingui}
 }
+```
+
 
