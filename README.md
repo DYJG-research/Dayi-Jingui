@@ -10,6 +10,7 @@
 <p align="center">
 <b>🌐 Language: </b> English | <a href="README_zh.md">中文</a>
 </p>
+
 # ⚡️ Overview
 
 ​	When the millennium-old "Art of Qihuang" meets artificial intelligence, the Traditional Chinese Medicine industry enters a new chapter of intelligence!
@@ -96,5 +97,6 @@ If you use Dayi-Jingui in your research or report, please cite it as follows:
   url={https://github.com/DYJG-research/Dayi-Jingui}
 }
 ```
+
 
 
